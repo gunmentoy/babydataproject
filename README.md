@@ -6,6 +6,6 @@ Data source: https://www.kaggle.com/datasets/ciroduro01/best-selling-albums-of-a
 
 Files included:
 
-- `babydataanalysis.ipynb` — interactive Jupyter notebook with code, charts, and narrative
-- `babydataanalysis.html` — exported HTML version of the notebook (if generated)
-- `babydataanalysis.md` and `babydataanalysis_files/` — exported Markdown and associated images
+- `babydataanalysis.ipynb` - interactive Jupyter notebook with code, charts, and narrative
+- `babydataanalysis.html` - exported HTML version of the notebook (if generated)
+- `babydataanalysis.md` and `babydataanalysis_files/` - exported Markdown and associated images
