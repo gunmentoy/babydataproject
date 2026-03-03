@@ -40,7 +40,7 @@ Repeating best-selling albums is rare - most artists appear only once. The few w
 ## Summary
 
 - The music industry shows strong patterns of **concentration** - in time (1970s–80s), geography (USA & UK), and talent (a select few artists)
-- Success is not evenly distributed; it clusters among artists, countries, and decades with the strongest cultural and commercial influence
+- Success is not evenly distributed. It clusters among artists, countries, and decades with the strongest cultural and commercial influence
 - Sustained multi-album success is uncommon, making repeat best-sellers truly exceptional
 
 ---
