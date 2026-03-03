@@ -13,7 +13,7 @@ artists with sustained multi-album success.
 
 ### 1. Decades Distribution
 
-The **1980s** produced the most best-selling albums, followed closely by the **1970s**. From that peak, the number of best-selling albums has been declining — likely due to shifts in technology, the music industry, and consumer preferences.
+The **1980s** produced the most best-selling albums, followed closely by the **1970s**. From that peak, the number of best-selling albums has been declining - likely due to shifts in technology, the music industry, and consumer preferences.
 
 ![Decades Distribution](analysis%20exports/images/albums_analysis_17_0.png)
 
@@ -31,7 +31,7 @@ The music industry's success is **geographically concentrated**. The **United St
 
 ### 4. Artists with Multiple Best-Selling Albums
 
-Repeating best-selling albums is rare — most artists appear only once. The few who have **multiple entries** generate enormous total sales, showing consistent appeal and true staying power.
+Repeating best-selling albums is rare - most artists appear only once. The few who have **multiple entries** generate enormous total sales, showing consistent appeal and true staying power.
 
 ![Multi-Album Artists](analysis%20exports/images/albums_analysis_26_0.png)
 
@@ -39,7 +39,7 @@ Repeating best-selling albums is rare — most artists appear only once. The few
 
 ## Summary
 
-- The music industry shows strong patterns of **concentration** — in time (1970s–80s), geography (USA & UK), and talent (a select few artists)
+- The music industry shows strong patterns of **concentration** - in time (1970s–80s), geography (USA & UK), and talent (a select few artists)
 - Success is not evenly distributed; it clusters among artists, countries, and decades with the strongest cultural and commercial influence
 - Sustained multi-album success is uncommon, making repeat best-sellers truly exceptional
 
