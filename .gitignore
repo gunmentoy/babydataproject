@@ -1,3 +1,6 @@
 #IGNORING DATASET#
 *.pdf
 *.csv
+*.png
+data/
+documents/reflection.ipynb
