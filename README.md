@@ -47,12 +47,12 @@ Repeating best-selling albums is rare — most artists appear only once. The few
 
 ## Repository Structure
 
-| File | Description |
-|------|-------------|
-| `script/albums_analysis.ipynb` | Main analysis: cleaning, visualizations, narrative |
-| `script/datasets_join.ipynb` | Outer join with generated artist awards dataset |
-| `analysis exports/albums_analysis.html` | Exported HTML notebook |
-| `analysis exports/images/` | Exported chart images from the analysis |
+| File                                    | Description                                        |
+| --------------------------------------- | -------------------------------------------------- |
+| `script/albums_analysis.ipynb`          | Main analysis: cleaning, visualizations, narrative |
+| `script/datasets_join.ipynb`            | Outer join with generated artist awards dataset    |
+| `analysis exports/albums_analysis.html` | Exported HTML notebook                             |
+| `analysis exports/images/`              | Exported chart images from the analysis            |
 
 ---
 
